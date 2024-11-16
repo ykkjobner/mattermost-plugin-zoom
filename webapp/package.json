@@ -19,7 +19,7 @@
     "check-types": "tsc"
   },
   "dependencies": {
-    "core-js": "3.7.0",
+    "core-js": "3.38.1",
     "mattermost-redux": "5.33.1",
     "prop-types": "15.7.2",
     "react": "17.0.1",
